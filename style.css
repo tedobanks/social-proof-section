@@ -21,6 +21,7 @@ section {
     align-items: center;
     flex-direction: column;
     padding: 60px 20px 60px 20px;
+    background-color: white;
 }
 
 .claim-body h2 {
@@ -135,7 +136,6 @@ section {
         width: 80%;
         padding: 60px 0px 0px 0px;
         justify-content: center;
-        
     }
 
     .claim {
