@@ -206,3 +206,9 @@ section {
         margin-right: 2.5px;
     }
 }
+
+@media only screen and (min-width: 1293px) {
+    .claim-body h2{
+        font-size: 50px;
+    }
+}
