@@ -13,8 +13,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-proof-section-C2ksawLwCI)
+- Live Site URL: [Live site URL](https://tedobanks.github.io/social-proof-section/)
 
 ## My process
 
